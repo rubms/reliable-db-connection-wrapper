@@ -2,9 +2,9 @@
 
 .NET DbConnection wrapper for retries, making a standard DbConnection more reliable to transient failure.
 
-[![Build History](https://buildstats.info/travisci/chart/mediatechsolutions/reliable-db-connection-wrapper?branch=master)](https://travis-ci.org/mediatechsolutions/reliable-db-connection-wrapper)
+[![Build History](https://buildstats.info/travisci/chart/rfrancotechnologies/reliable-db-connection-wrapper?branch=master)](https://travis-ci.org/rfrancotechnologies/reliable-db-connection-wrapper)
 [![NuGet Version](https://buildstats.info/nuget/ReliableDbConnectionWrapper?includePreReleases=true)](https://www.nuget.org/packages/ReliableDbConnectionWrapper)
-[![Build Status](https://travis-ci.org/mediatechsolutions/reliable-db-connection-wrapper.svg?branch=master)](https://travis-ci.org/mediatechsolutions/reliable-db-connection-wrapper)
+[![Build Status](https://travis-ci.org/rfrancotechnologies/reliable-db-connection-wrapper.svg?branch=master)](https://travis-ci.org/rfrancotechnologies/reliable-db-connection-wrapper)
 
 
 ## Why ReliableDbConnectionWrapper
